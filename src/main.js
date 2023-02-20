@@ -16,7 +16,7 @@ app.mount("#app");
 // An ActiveUser component and an UserData component
 // ActiveUser should output a username (h2) and age (h3)
 // UserData should output two input fields => for name and age
-// Optional: Add styling of your choice
+// Optional: Add styling of your choice.
 
 // Task 2: Output both components side-by-side in your main App template
 
